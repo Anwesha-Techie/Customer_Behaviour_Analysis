@@ -52,4 +52,18 @@ Performed detailed analysis to identify:
 - Customer satisfaction insights
 
 Visualizations were created using Matplotlib and Seaborn.
+### 4. SQL Analysis in MySQL
+Executed SQL queries to solve business-related problems such as:
+- Top revenue-generating customer segments
+- Repeat customer analysis
+- Monthly sales trends
+- Average purchase behavior
+- Category-wise revenue analysis
+### 5. Power BI Dashboard
+Built an interactive dashboard to visualize:
+- Total sales and revenue KPIs
+- Customer segmentation
+- Purchase trends
+- Product category performance
+- Regional and seasonal insights
 
