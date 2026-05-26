@@ -8,14 +8,14 @@ The project demonstrates an end-to-end data analytics workflow using Python, MyS
 
 The dataset contains customer-related information such as:
 
-Customer demographics
-Purchase amount
-Product categories
-Shopping frequency
-Payment methods
-Discounts and promotions
-Customer ratings
-Seasonal trends
+- Customer demographics
+- Purchase amount
+- Product categories
+- Shopping frequency
+- Payment methods
+- Discounts and promotions
+- Customer ratings
+- Seasonal trends
 
 The dataset was used to analyze customer behavior patterns and identify key factors influencing sales and customer engagement.
 
