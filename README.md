@@ -19,3 +19,17 @@ The dataset contains customer-related information such as:
 
 The dataset was used to analyze customer behavior patterns and identify key factors influencing sales and customer engagement.
 
+## Tools & Technologies Used
+- Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+- MySQL
+  - Data querying
+  - Aggregations
+  - Business problem solving using SQL
+- Power BI
+  - Interactive dashboard creation
+  - KPI tracking
+  - Visual storytelling
