@@ -85,4 +85,8 @@ Some major insights identified from the analysis:
 - Repeat customers generated a large portion of total sales
 - Seasonal trends had a strong impact on customer purchasing behavior
 - A few product categories consistently drove maximum revenue
-
+## Future Improvements
+- Add predictive analytics using Machine Learning
+- Deploy dashboard online using Power BI Service
+- Automate data pipeline updates
+- Integrate real-time customer data sources
