@@ -76,4 +76,13 @@ The Power BI dashboard includes:
 - Seasonal Purchase Trends
 - Repeat vs New Customer Analysis
 - Interactive Filters and Slicers
+## Key Insights / Results
+
+Some major insights identified from the analysis:
+
+- Certain age groups contributed significantly higher revenue
+- Discounts increased purchase frequency in specific categories
+- Repeat customers generated a large portion of total sales
+- Seasonal trends had a strong impact on customer purchasing behavior
+- A few product categories consistently drove maximum revenue
 
