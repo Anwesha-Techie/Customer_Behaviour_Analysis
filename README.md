@@ -1,5 +1,5 @@
 # Customer_Behaviour_Analysis
-Overview
+## Overview
 
 This project focuses on analyzing customer purchasing behavior to uncover meaningful business insights. The analysis includes data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, dashboard creation, and report presentation.
 
