@@ -66,4 +66,14 @@ Built an interactive dashboard to visualize:
 - Purchase trends
 - Product category performance
 - Regional and seasonal insights
+## Dashboard Highlights
+
+The Power BI dashboard includes:
+
+- Sales Overview
+- Customer Demographics Analysis
+- Revenue by Product Category
+- Seasonal Purchase Trends
+- Repeat vs New Customer Analysis
+- Interactive Filters and Slicers
 
