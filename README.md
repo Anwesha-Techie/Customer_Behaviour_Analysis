@@ -33,3 +33,23 @@ The dataset was used to analyze customer behavior patterns and identify key fact
   - Interactive dashboard creation
   - KPI tracking
   - Visual storytelling
+## Project Workflow
+### 1. Data Loading
+- Imported the dataset into Python using Pandas
+- Performed initial inspection of rows, columns, and data types
+### 2. Data Cleaning
+- Handled missing values
+- Removed duplicate records
+- Corrected inconsistent data formats
+- Standardized column names and values
+### 3. Exploratory Data Analysis (EDA)
+Performed detailed analysis to identify:
+- Customer spending patterns
+- Revenue contribution by different customer groups
+- Most purchased product categories
+- Seasonal sales trends
+- Impact of discounts and promotions
+- Customer satisfaction insights
+
+Visualizations were created using Matplotlib and Seaborn.
+
